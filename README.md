@@ -114,13 +114,8 @@ Blinking Yellow|	500ms on/off|
 
 ## ⚠️ Notes on Implementation
 - The push button input is read without debouncing. This could cause multiple triggers due to mechanical bounce.
-
 - The LDR threshold should be calibrated based on ambient conditions for effective light detection.
-
-- Repeated button presses during the forced green period will extend the green light timer.
-
-- The transition between modes is dynamic and responsive to real-time conditions.
-
+- 
 ## 📁 File Structure
 ```plaintext
 .
