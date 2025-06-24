@@ -125,7 +125,7 @@ Blinking Yellow|	500ms on/off|
 ```plaintext
 .
 ├── README.md             # Project documentation (this file)
-├── main.ino              # Arduino code for ESP32 logic       
+├── SmartTraffic.ino      # Arduino code for ESP32 logic       
 └── LICENSE               
 ```
 ### 📜 License
