@@ -1,4 +1,4 @@
-# Intelligent Traffic Light with ESP32 — Documentation
+# Intelligent Traffic Light with ESP32 - Documentation
 
 ## Overview
 This project simulates an intelligent traffic light using an ESP32. It runs a standard LED sequence, allows a manual override to force green light via a button, and enters an energy-saving mode (blinking yellow) based on ambient light detected by an LDR sensor.
